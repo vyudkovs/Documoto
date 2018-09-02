@@ -1,0 +1,11 @@
+C:\Users\vyudk\source\repos\Documoto\DocumotoAPICore\obj\Debug\netcoreapp2.0\DocumotoAPICore.csprojResolveAssemblyReference.cache
+C:\Users\vyudk\source\repos\Documoto\DocumotoAPICore\obj\Debug\netcoreapp2.0\DocumotoAPICore.csproj.CoreCompileInputs.cache
+C:\Users\vyudk\source\repos\Documoto\DocumotoAPICore\obj\Debug\netcoreapp2.0\DocumotoAPICore.AssemblyInfoInputs.cache
+C:\Users\vyudk\source\repos\Documoto\DocumotoAPICore\obj\Debug\netcoreapp2.0\DocumotoAPICore.AssemblyInfo.cs
+C:\Users\vyudk\source\repos\Documoto\DocumotoAPICore\bin\Debug\netcoreapp2.0\DocumotoAPICore.deps.json
+C:\Users\vyudk\source\repos\Documoto\DocumotoAPICore\bin\Debug\netcoreapp2.0\DocumotoAPICore.runtimeconfig.json
+C:\Users\vyudk\source\repos\Documoto\DocumotoAPICore\bin\Debug\netcoreapp2.0\DocumotoAPICore.runtimeconfig.dev.json
+C:\Users\vyudk\source\repos\Documoto\DocumotoAPICore\bin\Debug\netcoreapp2.0\DocumotoAPICore.dll
+C:\Users\vyudk\source\repos\Documoto\DocumotoAPICore\bin\Debug\netcoreapp2.0\DocumotoAPICore.pdb
+C:\Users\vyudk\source\repos\Documoto\DocumotoAPICore\obj\Debug\netcoreapp2.0\DocumotoAPICore.dll
+C:\Users\vyudk\source\repos\Documoto\DocumotoAPICore\obj\Debug\netcoreapp2.0\DocumotoAPICore.pdb
