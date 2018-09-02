@@ -1,7 +1,8 @@
 "# Documoto" 
 
-please have .net sdk installed
+please have .net sdk and yarn installed
 https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-run?tabs=netcore21
+https://yarnpkg.com/en/
 
 If you need to run this on mac please contact vyudkovs@yahoo.com
 
